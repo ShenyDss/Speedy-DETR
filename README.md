@@ -2,7 +2,7 @@
 
 
 ## Model Overview:
-![The architecture of Speedy-DETR. It consists of a backbone network, a multi-feature fusion module, an optional Transformer encoder, and a Transformer decoder. Multi-scale feature tokens undergo refinement through two encoder modules, SDE and HMoE, facilitated by a one-to-many matching strategy.](./model.png)
+![The architecture of Speedy-DETR. It consists of a backbone network, a multi-feature fusion module, an optional Transformer encoder, and a Transformer decoder. Multi-scale feature tokens undergo refinement through two encoder modules, SDE and HMoE, facilitated by a one-to-many matching strategy.]([./model.png](https://github.com/ShenyDss/Speedy-DETR/blob/main/model.png))
 
 
 
