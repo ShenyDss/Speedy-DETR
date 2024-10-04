@@ -9,6 +9,7 @@
 ## Speedy DETR
 - This repository is an official implementation of the paper Speedy-DETR: Multiple Scales Fusion and Query Matching Stabilization for Detection with Transformer.
 - The code are built upon the official [RT-DETR, Sparse-DETR, Focus-DETR.](https://zhao-yian.github.io/RTDETR/) repository.
+- Due to the name change we made.
 - The <font color=blue>**complete code**</font> will be released soon.
 - **There is now a lot of duplicate, disorganised parameter code in the repository. <font color=blue>**Will be updated when we sort it out.**</font>**
 
