@@ -7,7 +7,7 @@
 
 
 ## Speedy DETR
-- <font color=blue>Paper has been publish on Engineering Applications of Artificial Intelligence,</font>
+- <font color=red>Paper has been publish on Engineering Applications of Artificial Intelligence,</font>
 - This repository is an official implementation of the paper Speedy-DETR: Multiple Scales Fusion and Query Matching Stabilization for Detection with Transformer.
 - The code are built upon the official [RT-DETR, Sparse-DETR, Focus-DETR.](https://zhao-yian.github.io/RTDETR/) repository.
 - Due to the name change we made.
